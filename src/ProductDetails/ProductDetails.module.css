@@ -1,0 +1,62 @@
+.ProductDetails {
+    width: 100%;
+}
+
+.ProductTitle {
+    font-size: 48px;
+    font-weight: 600;
+    margin-top: 0;
+    margin-bottom: 16px;
+}
+
+.ProductDescription {
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.8);
+    margin-top: 0;
+    margin-bottom: 16px;
+}
+
+.SubHeading {
+    font-size: 28px;
+    margin-bottom: 8px;
+    font-weight: 400;
+}
+
+.ColorOptions {
+    width: 100%;
+    max-width: 80px;
+    border-radius: 8px;
+    margin-right: 12px;
+    cursor: pointer;
+}
+
+.selectedColorOption {
+    border: 2px solid teal;
+}
+
+.FeaturesBtn {
+    min-width: 80px;
+    background-color: gainsboro;
+    border-radius: 8px;
+    border: none;
+    padding: 12px 24px;
+    margin-right: 12px;
+    cursor: pointer;
+    font-weight: 600;
+    box-sizing: content-box;
+}
+
+.selectedFeatureBtn {
+    color: white;
+    background-color: gray;
+}
+
+.PrimaryButton {
+    color: white;
+    background-color: teal;
+    border-radius: 8px;
+    font-size: 20px;
+    border: none;
+    padding: 12px 24px;
+    margin-top: 36px;
+}
