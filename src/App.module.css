@@ -31,5 +31,6 @@ body {
 
     .MainContainer {
         display: block;
+        padding: 10% 0;
     }
 }
