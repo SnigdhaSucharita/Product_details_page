@@ -33,3 +33,12 @@ body {
     width: 50%;
 }
 
+@media screen and (max-width: 768px) {
+    .ProductPreview {
+        width: 100vw;
+    }
+
+    .ProductDetails {
+        width: 100vw;
+    }
+}

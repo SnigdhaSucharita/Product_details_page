@@ -53,3 +53,14 @@
         transform: scale(1);
     }
 }
+
+@media screen and (max-width: 768px) {
+    .ProductPreview {
+        width: 100vw;
+    }
+
+    .FeatureHeartRate > p {
+        margin-top: 10px;
+    }
+
+} 
